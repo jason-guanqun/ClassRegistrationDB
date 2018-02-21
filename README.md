@@ -1,3 +1,3 @@
 # ClassRegistrationDB
-A class registration database implementation with some sample data.
-The implementation inclue Inheritance, Correctness, Triggers, and Procedures
+A class registration database implementation with some sample data.  
+The implementation include Inheritance, Correctness, Triggers, and Procedures
