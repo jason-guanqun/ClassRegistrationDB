@@ -4,7 +4,7 @@
 -- ------------------------------------------------------
 -- Server version	5.7.18
 
--- Copyright (C) 2017 Guanqun Wang
+-- Copyright (C) 2017 Jason Wang
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
